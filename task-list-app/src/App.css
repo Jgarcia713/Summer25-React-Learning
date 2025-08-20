@@ -1,0 +1,25 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+#todoList {
+  list-style-type: none;
+  text-align: left;
+  font-size: 20px;
+}
+
+#todoList input[type='checkbox'] {
+  height : 24px;
+  width: 24px;
+}
+
+#clear {
+  margin-left: 10px;
+}
+
+.listItems {
+  cursor: pointer;
+}
