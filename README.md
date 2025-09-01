@@ -1,3 +1,4 @@
+# Summer25 React Learning
 A collection of small projects I did in order to learn React.  
 It features: 
 1. A classic task list webapp
